@@ -12,8 +12,8 @@ This is a simple Rock, Paper, Scissors game built using **HTML**, **CSS**, and *
 
 ## Files
 - **index.html** - The HTML structure of the game.
-- **styles.css** - The CSS for styling the game.
-- **script.js** - The JavaScript that controls the game logic.
+- **style.css** - The CSS for styling the game.
+- **app.js** - The JavaScript that controls the game logic.
 
 ## How to Use
 1. Clone this repository or download the files.
